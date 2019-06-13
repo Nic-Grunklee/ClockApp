@@ -1,6 +1,6 @@
 # clock_app
 
-A new Flutter project.
+Clock App built following [this](https://youtu.be/TnAaCyPzVuY) tutorial 
 
 ## Getting Started
 
